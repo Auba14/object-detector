@@ -1,0 +1,12 @@
+body{
+    background: rgb(92,2,218);
+    background: linear-gradient(90deg, rgba(92,2,218,1) 17%, rgba(10,167,208,1) 33%, rgba(226,224,13,1) 49%, rgba(249,87,87,1) 64%, rgba(222,71,136,1) 81%, rgba(200,58,178,1) 90%);
+font-family: 'Concert One', cursive;
+font-family: 'Mochiy Pop P One', sans-serif;
+}   
+.heading{
+
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
